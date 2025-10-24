@@ -1,3 +1,5 @@
+package Construtores.Exercicio82;
+
 import java.util.Scanner;
 
 public class Main {

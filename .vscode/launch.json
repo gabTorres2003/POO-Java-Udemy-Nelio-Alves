@@ -1,0 +1,49 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Ex1",
+      "request": "launch",
+      "mainClass": "ArrayELista.Ex1",
+      "projectName": "POO-Java-Udemy-Nelio-Alves_f21e998c"
+    },
+    {
+      "type": "java",
+      "name": "geometria",
+      "request": "launch",
+      "mainClass": "geometria",
+      "projectName": "POO-Java-Udemy-Nelio-Alves_f21e998c"
+    },
+    {
+      "type": "java",
+      "name": "Ex1",
+      "request": "launch",
+      "mainClass": "ArrayELista.src.Ex1",
+      "projectName": "POO-Java-Udemy-Nelio-Alves_f21e998c"
+    },
+    {
+      "type": "java",
+      "name": "AreaCirculo",
+      "request": "launch",
+      "mainClass": "AreaCirculo",
+      "projectName": "POO-Java-Udemy-Nelio-Alves_f21e998c"
+    },
+    {
+      "type": "java",
+      "name": "Soma",
+      "request": "launch",
+      "mainClass": "Soma",
+      "projectName": "POO-Java-Udemy-Nelio-Alves_f21e998c"
+    },
+    {
+      "type": "java",
+      "name": "Executar Ex1",
+      "request": "launch",
+      "mainClass": "Ex1",
+      "cwd": "${workspaceFolder}/10. Array e Lista/src",
+      "vmArgs": "-Dfile.encoding=UTF-8",
+      "console": "integratedTerminal"
+    }
+  ]
+}

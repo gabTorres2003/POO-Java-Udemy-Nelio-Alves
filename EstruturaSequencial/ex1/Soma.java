@@ -1,4 +1,4 @@
-package ex1;
+package EstruturaSequencial.ex1;
 
 import java.util.Scanner;
 
