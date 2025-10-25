@@ -1,4 +1,4 @@
-package ArrayELista;
+package ArrayELista.ex1;
 
 import java.util.Scanner;
 
