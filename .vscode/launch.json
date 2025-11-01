@@ -5,6 +5,13 @@
       "type": "java",
       "name": "Main",
       "request": "launch",
+      "mainClass": "ArrayELista.ex3.Main",
+      "projectName": "POO-Java-Udemy-Nelio-Alves_f21e998c"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
       "mainClass": "ArrayELista.ex2.Main",
       "projectName": "POO-Java-Udemy-Nelio-Alves_f21e998c"
     },

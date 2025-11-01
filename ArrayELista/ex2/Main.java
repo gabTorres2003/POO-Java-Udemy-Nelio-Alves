@@ -14,7 +14,7 @@ public class Main {
         operacoes.inserirValores(tamanhoTotal, vetorNumeros);
 
         double soma = operacoes.somaValores(vetorNumeros);
-        System.out.println("Soma dos valores: " + soma);
+        System.out.println("\nSoma dos valores: " + soma);
 
         double media = operacoes.mediaValores(vetorNumeros, soma);
         System.out.println("Média dos valores: " + media);
