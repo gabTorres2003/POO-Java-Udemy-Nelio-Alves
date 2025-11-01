@@ -12,9 +12,9 @@ public class Main {
 
         p1.inserirValores(totalPessoas);
         System.out.println();
-        System.out.println("Média das alturas: " + p1.mediaAltura(totalPessoas));
+        System.out.printf("Média das alturas: %.2f%n", p1.mediaAltura(totalPessoas));
         System.out.println();
-        System.out.println("Porcentagem de menores de 16: " + p1.porcentagemAdolescentes(totalPessoas) + "%");
+        System.out.printf("Porcentagem de menores de 16: %.1f%%%n",  p1.porcentagemAdolescentes(totalPessoas));
         System.out.println();
         System.out.println("Nomes dos menores de 16: ");
         p1.nomesDosAdolescentes(totalPessoas);
