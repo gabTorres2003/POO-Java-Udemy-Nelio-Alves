@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "ArrayELista.exPensionato.Main",
+      "projectName": "POO-Java-Udemy-Nelio-Alves_f21e998c"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Construtores.Exercicio82.Main",
+      "projectName": "POO-Java-Udemy-Nelio-Alves_f21e998c"
+    },
+    {
+      "type": "java",
+      "name": "geometria",
+      "request": "launch",
+      "mainClass": "EstruturaSequencial.ex6.geometria",
+      "projectName": "POO-Java-Udemy-Nelio-Alves_f21e998c"
+    },
+    {
+      "type": "java",
       "name": "NumerosPares",
       "request": "launch",
       "mainClass": "ArrayELista.ex4.NumerosPares",
