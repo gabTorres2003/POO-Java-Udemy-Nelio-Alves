@@ -13,7 +13,7 @@ public class Main {
         System.out.print("Quantos aluguéis serão realizados no momento?: ");
         int numeroDeAlugueis = sc.nextInt();
 
-        for(int i=1; i < numeroDeAlugueis; i++){
+        for(int i=0; i < numeroDeAlugueis; i++){
             System.out.println("Aluguel n° " + i + ":");
             System.out.print("Nome: ");
             String nome = sc.next();
