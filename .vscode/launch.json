@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "InstanciandoDataHora",
+      "request": "launch",
+      "mainClass": "DataHora.InstanciandoDataHora",
+      "projectName": "POO-Java-Udemy-Nelio-Alves_f21e998c"
+    },
+    {
+      "type": "java",
       "name": "Matriz",
       "request": "launch",
       "mainClass": "ArrayELista.exMatriz.Matriz",
